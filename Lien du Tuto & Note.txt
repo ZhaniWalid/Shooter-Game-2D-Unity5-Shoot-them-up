@@ -1,0 +1,19 @@
+* Lien Tuto :
+
+http://gamedevnation.com/creating-a-2d-game-with-unity/
+
+
+* Noté Bien : 
+
+ les 3 dossiers : 
+  
+     # Editor
+     # Standard Assests
+     # www.Devination.com
+
+===> Se sont des dossiers externes du mon projet , il sont 
+     importés lors de l'éxcution du fichier : 
+
+     'dcurryUnity5TouchJoystickAST' , sous répértoire :  
+        'D:\WalidDataFilesHPPavilionG6\My Unity5 Projects\External_Assests\2D_Mobile_Joystick Controller',
+      pour importer des scripts et fichiers néccessaires pour le control pour les jeux mobiles 

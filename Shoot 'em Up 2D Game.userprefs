@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameOverScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" Line="1" Column="1" />
+      <File FileName="..\Flappy_Bird_Remastred_WZ\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UiManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\www.Devination.com\FloatingPlayer2DController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SwipeDetector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOverScript.cs" Line="58" Column="34" />
+      <File FileName="Assets\Scripts\HealthScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
